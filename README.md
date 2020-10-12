@@ -1,1 +1,1 @@
-# HiDTTimelaps
+# HiDTTimelapse
